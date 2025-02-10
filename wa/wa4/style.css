@@ -108,6 +108,7 @@ body {
   
   .card2 h2, p{
     margin:0;
+    color: white;
   }
 
   .card2 article{
