@@ -20,7 +20,7 @@ article {
   border-bottom: 1mm solid red;
   
   background: linear-gradient(to bottom, rgba(0,0,0,0.2), rgba(0,0,0,0) 20%), 
-  url(top-image.png) left top no-repeat, url(bottom-image.png)left bottom no-repeat; 
+  url(top-image.png) left top no-repeat, url(bottom-image.png)left bottom no-repeat, linear-gradient(to top, rgba(0,0,0,0.2), rgba(0,0,0,0) 20%); 
   background-color: white;
 }
 
