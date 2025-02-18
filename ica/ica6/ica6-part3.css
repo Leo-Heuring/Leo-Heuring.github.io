@@ -16,7 +16,7 @@ background-color: lavender;
         background-color: purple;
     }
 }
-@media screen and (max-width: 800px){
+@media screen and (min-width: 800px){
     #wideScreen{
         background-color: lightblue;
     }
@@ -26,7 +26,7 @@ background-color: lavender;
         background-color: yellow;
     }
 }
-@media screen and (max-height: 800px){
+@media screen and (min-height: 800px){
     #tallScreen{
         background-color: orange;
     }
